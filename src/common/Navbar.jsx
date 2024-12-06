@@ -10,7 +10,7 @@ export const Navbar = () => {
     }`;
 
   return (
-    <nav className="border-b border-b-black border-solid">
+    <nav className=" border-b border-b-black border-solid">
       <div className="max-w-7xl p-4 mx-auto ">
         <div className="flex justify-between items-center">
           {/* Logo */}

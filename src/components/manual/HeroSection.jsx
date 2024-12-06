@@ -6,7 +6,7 @@ export const HeroSection = () => {
   
 
     <div className="bg-[#F5F7FA] w-full mx-auto md:h-[600px]">
-      <div className="flex flex-row items-center justify-between md:w-[80%] mx-auto ">
+      <div className="flex flex-row items-center justify-between md:w-[85%] mx-auto ">
 
         <div className="flex flex-col gap-4 mx-14 my-36">
           <div className="flex flex-col gap-2">
